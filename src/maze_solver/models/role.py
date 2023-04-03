@@ -1,0 +1,1 @@
+import enumclass Role(enum.IntEnum):    NONE = 0    ENEMY = enum.auto()    ENTRANCE = enum.auto()    EXIT = enum.auto()    EXTERIOR = enum.auto()    REWARD = enum.auto()    WALL = enum.auto()
